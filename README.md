@@ -9,7 +9,7 @@
   <div align="center">
   <a href="https://github.com/ricardohardjava">
   <img height="180em" width= "390em" src="https://github-readme-stats.vercel.app/api?username=ricardohardjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohardjava&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" width= "470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohardjava&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
   ##
@@ -41,4 +41,5 @@
   <a href="https://www.linkedin.com/in/ricardo-albuquerque-b76668200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
   </div>
   
- ##  
+ ##
+ ## 
