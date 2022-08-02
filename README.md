@@ -1,7 +1,7 @@
   Olá!!! Eu sou Ricardo Albuquerque 👋😎
 
 - 🔭 Atualmente Estudando Java do Básico ao Avançado 
-- 🌱 Formado em Análise e Desenvolvimeto de Sistemas no último semestre
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: ricardoalbuquerquecorretor@gmail.com
   ##
   <div align="center">
